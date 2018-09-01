@@ -2,7 +2,11 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #ddd;
-  color: #fff;
+  text-align: center;
+}
+#one_green_thing {
+  color: #00ff00;
+}
+#red_header {
+  color: #ff0000;
 }
