@@ -2,7 +2,7 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 h1 {
-  text-align: center;
+  text-align: center; font-family: fantasy;
 }
 #one_green_thing {
   color: #00ff00;
