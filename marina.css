@@ -1,9 +1,18 @@
 body {
-  font-family: "Times New Roman", Times, serif;
+  font-family:fantasy;
 }
 h1 {
   text-align: center; font-family: fantasy;
 }
+h2 {
+  color: 808000;
+  }
+h3 {
+  color: 808000; text-align: center;
+  }
+h4 {
+  color: 808000; text-align: right;
+      }
 #one_green_thing {
   color: #00ff00;
 }
