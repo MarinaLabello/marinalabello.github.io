@@ -29,7 +29,7 @@ h4 {
 #header {
   padding-top: 200px;
   margin-bottom: 50px;
-  height: 60vh;
+  height: 30vh;
   background-size: cover;
   background-image: url("IMG_1387.jpg");
   display: flex;
@@ -44,12 +44,15 @@ h4 {
 
 .tile {
   height: 200px;
-  width: 200px;
-  background-color: aliceblue;
+  width: 227px;
+  background-color: lightgrey;
   margin: 5px;
   transition: background-color 0.5s;
+  float: inherit;
+  text-align: center;
+  font-weight: bold;
 }
 
 .tile:hover {
-  background-color: fuchsia;
+  background-color: transparent;
 }
