@@ -27,7 +27,7 @@ h4 {
 }
 
 #header {
-  padding-top: 150px;
+  padding-top: 100px;
   margin-bottom: 50px;
   height: 20vh;
   background-size: cover;
@@ -50,8 +50,11 @@ h4 {
   transition: background-color 0.5s;
   float: inherit;
   text-align: center;
-  vertical-align: middle;
   font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25
 }
 
 .tile:hover {
